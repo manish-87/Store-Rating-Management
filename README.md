@@ -100,44 +100,6 @@ DATABASE_URL=postgresql://postgres:yourpassword@localhost:5432/your-database-nam
 ```
 
 ---
-## 📸 Application Screenshots
-
-### Login Page
-![Login Page](screenshots/Screenshot%202025-03-15%20073307.png)
-
-### User Dashboard
-![User Dashboard](screenshots/Screenshot%202025-03-15%20073332.png)
-
-### Store Listing Page
-![Store Listing](screenshots/Screenshot%202025-03-15%20073346.png)
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/Screenshot%202025-03-15%20073355.png)
-
-### Admin Store Management
-![Admin Store Management](screenshots/Screenshot%202025-03-15%20073407.png)
-
-### User Ratings Management
-![Ratings Management](screenshots/Screenshot%202025-03-15%20073416.png)
-
-### Store Owner Dashboard
-![Store Owner Dashboard](screenshots/Screenshot%202025-03-15%20073446.png)
-
-### User Profile Update
-![User Profile Update](screenshots/Screenshot%202025-03-15%20073630.png)
-
-### Store Owner Ratings View
-![Store Owner Ratings View](screenshots/Screenshot%202025-03-15%20073644.png)
-
-### Password Update
-![Password Update](screenshots/Screenshot%202025-03-15%20073654.png)
-
-### Store Rating Submission
-![Store Rating Submission](screenshots/Screenshot%202025-03-15%20073704.png)
-
-### Logout Screen
-![Logout Screen](screenshots/Screenshot%202025-03-15%20073711.png)
-
 
 
 ## 📬 Contributing
