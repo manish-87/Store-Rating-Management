@@ -83,19 +83,10 @@ npm run dev
 
 Backend runs at `http://localhost:3000`
 
-### **2. Frontend Setup**
-
-Navigate to your frontend directory:
-
-```sh
-cd client
-npm install
-npm run dev
 ```
-
-Frontend runs at `http://localhost:5173`
-
----
+admin@example.com
+Admin123!
+```
 
 ## ⚠️ **Important**
 - Ensure PostgreSQL/MySQL is running.
@@ -108,12 +99,7 @@ DATABASE_URL=postgresql://postgres:yourpassword@localhost:5432/your-database-nam
 
 ---
 
-## 🌟 Usage
 
-- Access the frontend at `http://localhost:5173`
-- Register/login based on your role and explore the features.
-
----
 
 ## 📬 Contributing
 
