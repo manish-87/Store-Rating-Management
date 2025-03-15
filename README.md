@@ -83,6 +83,8 @@ npm run dev
 
 Backend runs at `http://localhost:3000`
 
+For using super admin use these 
+
 ```
 admin@example.com
 Admin123!
