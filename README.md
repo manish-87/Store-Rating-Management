@@ -116,24 +116,3 @@ Specify clearly here if needed (MIT, etc.)
 Made with ❤️ by [Manish](https://github.com/manish-87)
 ```
 
-![Screenshot 2025-03-15 073346](https://github.com/user-attachments/assets/87efea3c-c57a-4802-9cc1-091f15d60d8f)
-
-![Screenshot 2025-03-15 073332](https://github.com/user-attachments/assets/b84cd6ce-ece8-4751-90a9-d39e74038974)
-
-![Screenshot 2025-03-15 073355](https://github.com/user-attachments/assets/3b5d07aa-1b48-4325-82cf-3b42487e0fa3)
-
-![Screenshot 2025-03-15 073407](https://github.com/user-attachments/assets/577dfb02-5db9-4109-b168-c5e0a43692a3)
-
-![Screenshot 2025-03-15 073416](https://github.com/user-attachments/assets/0a97bd6f-b8b8-485f-a549-fb961f73e85d)
-
-![Screenshot 2025-03-15 073446](https://github.com/user-attachments/assets/494f03aa-f3f5-472c-9a2c-5c2020abbc07)
-
-![Screenshot 2025-03-15 073630](https://github.com/user-attachments/assets/8c4793ef-e10f-4484-bb80-12845946bc07)
-
-![Screenshot 2025-03-15 073644](https://github.com/user-attachments/assets/a48d5d20-c371-47dd-ae3d-4f00acc6ae50)
-
-![Screenshot 2025-03-15 073654](https://github.com/user-attachments/assets/9d67b348-5ec3-4947-9ce9-303d8b27dd2f)
-
-![Screenshot 2025-03-15 073704](https://github.com/user-attachments/assets/1dfaba5c-cede-4caf-9988-322f8d4cc6f8)
-
-![Screenshot 2025-03-15 073711](https://github.com/user-attachments/assets/66656633-6b8e-4ea3-96a2-ab94a22edc04)
