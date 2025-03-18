@@ -1,5 +1,19 @@
 # Store Rating Management Application
 
+**Output Images**
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073307.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073332.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073346.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073355.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073407.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073416.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073446.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073630.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073644.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073654.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073704.png)
+![Image Alt](https://github.com/manish-87/Store-Rating-Management/blob/main/Screenshot%202025-03-15%20073711.png)
+
 ## 🚀 Overview
 A web application that enables users to submit and manage ratings for stores registered on the platform. It features role-based access for different types of users.
 
@@ -100,6 +114,8 @@ DATABASE_URL=postgresql://postgres:yourpassword@localhost:5432/your-database-nam
 ```
 
 ---
+
+
 
 
 ## 📬 Contributing
